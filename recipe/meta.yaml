@@ -16,7 +16,7 @@ package:
 source:
   git_tag: master
   git_url: https://github.com/FXIhub/libspimage.git
-  sha256: c627482e15d3335ef85a72c80ed86c8a808bfe88
+  sha256: 7663c1e83a318764ad51b0669a64c97d1df89d50
 
 build:
   number: {{ build }}
